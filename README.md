@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/twitter/follow/giannofederico?style=for-the-badge&label=%40giannofederico&logo=twitter&logoColor=00AEFF&labelColor=black&color=orange">
   </a>
   
-  <a href="https://www.linkedin.com/in/federico-gianno/">
+  <a href="https://www.linkedin.com/in/gianno-federico/">
     <img src="https://img.shields.io/badge/-Federico%20Gianno-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   
