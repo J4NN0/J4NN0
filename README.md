@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2 align="center">Hey 👋, I'm Federico Gianno aka J4NN0</h2>
+
+<p align="center">
+  <a href="https://twitter.com/giannofederico">
+    <img src="https://img.shields.io/twitter/follow/giannofederico?style=for-the-badge&label=%40giannofederico&logo=twitter&logoColor=00AEFF&labelColor=black&color=orange">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/federico-gianno/">
+    <img src="https://img.shields.io/badge/-Federico%20Gianno-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  
+  <a href="https://j4nn0.github.io/">
+    <img src="https://img.shields.io/badge/j4nn0.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  
+  <a href="mailto:giannofederico@gmail.com">
+    <img src="https://img.shields.io/badge/giannofederico@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/j4nn0">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=j4nn0&count_private=true&show_icons=true&theme=dark" />
+  </a>
+</p>
+
+<hr />
 
 <!--
-**J4NN0/J4NN0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>
+  <p align="center">
+   If you want to support me
+  </p>
+</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fgianno) | <a href="https://www.buymeacoffee.com/j4nn0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> | 
+| :---        |    :----:    |
