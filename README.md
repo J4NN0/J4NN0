@@ -4,4 +4,4 @@
 
 🤖 I am a passionate software engineer and a former competitive swimmer.
 
-📝 Sometimes I write [blog posts](https://federicogianno.medium.com/) about something new I’ve learned.
+📝 Sometimes I write [blog posts](https://federicogianno.medium.com/) about topics I find interesting or just plain cool.
